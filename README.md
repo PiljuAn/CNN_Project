@@ -4,9 +4,9 @@
 
 ## 전체 프로세스
 
-상세내용 : 발표자료에 정리되어 있습니다
+상세내용 : 발표자료를 통해 정리
 
-<p aling="center"><img width="100" scr=""></p>
+<p aling="center"><img width="100" scr="https://github.com/PiljuAn/CNN_project/assets/158863314/711eda54-a0d4-42b8-a816-267dfd4f1a71"></p>
 
 ## 학습에 이용한 데이터
 garbage = [https://www.kaggle.com/datasets/mostafaabla/garbage-classification](https://www.kaggle.com/datasets/mostafaabla/garbage-classification)<br>
