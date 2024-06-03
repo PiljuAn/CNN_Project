@@ -6,7 +6,8 @@
 
 상세내용 : 발표자료를 통해 정리
 
-<p aling="center"><img width="100" scr="https://github.com/PiljuAn/CNN_project/assets/158863314/711eda54-a0d4-42b8-a816-267dfd4f1a71"></p>
+<p aling="center"><img width="100" scr=""></p>
+![process](https://github.com/PiljuAn/CNN_project/assets/158863314/659312f3-a555-4608-b60c-a736a8f994c8)
 
 ## 학습에 이용한 데이터
 garbage = [https://www.kaggle.com/datasets/mostafaabla/garbage-classification](https://www.kaggle.com/datasets/mostafaabla/garbage-classification)<br>
